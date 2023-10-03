@@ -6,14 +6,14 @@ body, h1, h2, h3, p {
 
 /* Set a background color and text color */
 body {
-    background-color: #f0f0f0;
+    background-color: #1ec6e4;
     color: #333;
     font-family: Arial, sans-serif;
 }
 
 /* Style the header and navigation menu */
 header {
-    background-color: #333;
+    background-color: rgb(4, 255, 192);
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -30,7 +30,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: rgb(241, 121, 22);
     font-weight: bold;
 }
 
