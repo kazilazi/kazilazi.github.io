@@ -26,7 +26,7 @@ My Game Development Portfolio
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <p>Hi my name is Sam Thompson, Im from the UK. I used to live in Spain and Belgium. I love animating and 3D blending.</p>
     </section>
 
     <section id="projects">
