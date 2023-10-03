@@ -13,7 +13,7 @@ body {
 
 /* Style the header and navigation menu */
 header {
-    background-color: rgb(24, 28, 233);
+    background-color: rgb(21, 196, 196);
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -30,7 +30,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: rgb(150, 14, 14);
+    color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
